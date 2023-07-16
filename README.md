@@ -2,7 +2,7 @@
 
 Este es el segundo proyecto Individual de Henry DS PT 01 - Adriana Gabriela López Guerra
 
-<img src="../Proyecto_Individual_2_Henry/imagenes/dis1.png" alt="Logo">
+<img src="../imagenes/dis1.png" alt="Logo">
 
 
 # Análisis de Datos - Proyecto Individual
