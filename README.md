@@ -111,9 +111,9 @@ Estos hallazgos proporcionan información valiosa para comprender el panorama de
 
 # Power Bi - Presentación de resultados
 
-El análisis del sector de las telecomunicaciones ha proporcionado información valiosa sobre su comportamiento. Los KPI calculados y las métricas analizadas permiten evaluar la penetración de banda ancha, el crecimiento, los accesos por cada 100 hogares, los ingresos por conexión y el porcentaje de conexiones de fibra óptica. Además, el análisis del contexto socioeconómico y los reclamos del mercado han ayudado a comprender los factores externos que influyen en el sector.
+El análisis del sector de las telecomunicaciones ha proporcionado información valiosa sobre su comportamiento. Los KPI calculados y las métricas analizadas permiten evaluar la penetración de banda ancha, el crecimiento, los accesos por cada 100 hogares, los ingresos por conexión y el porcentaje de conexiones de fibra óptica. Además, el análisis del contexto socioeconómico y los reclamos del mercado han ayudado a comprender los factores externos que influyen en el sector a nivel provincial y nacional.
 
-Estos resultados y conclusiones son fundamentales para la toma de decisiones estratégicas en el sector de las telecomunicaciones. Los hallazgos proporcionarán información valiosa para mejorar la calidad de los servicios, identificar oportunidades de crecimiento y adaptarse a las demandas del mercado.
+Los resultados y conclusiones obtenidos a partir del proyecto son fundamentales para la toma de decisiones estratégicas en el sector de las telecomunicaciones. Los hallazgos buscan brindar información valiosa para mejorar la calidad de los servicios, identificar oportunidades de crecimiento y adaptarse a las demandas del mercado.
 
 
 
