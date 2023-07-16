@@ -2,7 +2,6 @@
 
 Este es el segundo proyecto Individual de Henry DS PT 01 - Adriana Gabriela López Guerra
 
-<img src="../Proyecto_Individual_2_Henry/imagenes/dis1.png" alt="Logo">
 
 ![Logo](https://github.com/AdrianaGLG/Proyecto_Individual_2_Henry/blob/184fad1183009e577d92a7f39831a1e5215eb8d2/imagenes/dis1.png)
 
